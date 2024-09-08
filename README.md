@@ -2,6 +2,7 @@
 # Responsive Startup Website
 
 A Tutorial for beginners on how to develop responsive websites using HTML & CSS
+[Visit Startup Research Platform]([https://www.startupresearch.com](https://66dd16135e74a0c1b9ebd0cb--guileless-swan-cd05d8.netlify.app/)
 
 =======
 # startup-research platform
